@@ -15,18 +15,18 @@ dependencies:
   font_awesome_flutter: ^10.1.0
   smooth_star_rating_nsafe: ^1.0.0+1
   intl: ^0.17.0
-  fair: ^2.4.1
+  fair: ^2.6.1
   dio: ^4.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   build_runner: ^2.0.0
-  fair_compiler: ^1.1.0
+  fair_compiler: ^1.2.0
 
 dependency_overrides:
   fair_version:
-    path: ../flutter_version/flutter_2_5_0
+    path: ../flutter_version/flutter_2_10_0
 
 flutter:
 
